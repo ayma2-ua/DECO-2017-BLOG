@@ -1,7 +1,7 @@
 ---
-title: Post Title
+title: New beginnings
 date: 2026-02-14
-author: Your Name
+author: Andrea
 summary: Short description
 tags:
   - tag1
