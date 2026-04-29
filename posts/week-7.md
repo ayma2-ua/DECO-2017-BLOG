@@ -13,3 +13,9 @@ We ended up finding a common topic we both where interested in, which was, self-
 So the core feature we thought about after doing some research was a **personalized avatar that shows your performance and goals**. These was chosen after seeing in forums that people usually struggle more with consistency rather than starting their self-improvement journey. We also tried to see what an useful approach could be so that people wouldn't quit after starting, and we disvocered that a good way for people to mantain focus is creating an interactive experience for them, transform their goals in something more "tangible", something that they can keep track easily, not so much of an abstract thing, like some goals usually are, since results can't be seen until much later along the way.
 
 Even though we did decide on this feature, we still have to find our scope, since there are some trade-offs that can be considered. An example would be that making the feature interactive will help engagement, but that could also affect performance if not done correctly. Also symplifying the progression stats can make it more accesible, but it risks ending up being oversimplified for all the characteristics a personal growth goals have.
+
+The design toolkit methods used where: 
+- Mind mapping to explore different initial ideas and connections.
+- Reframing to shift our focus from cybersecurity and drones to self-development, since it showed a more engaging and relevant problem space. 
+- User profiles and empathy mapping, so we could identify the key challenges such as lack of motivation and inconsistency. 
+- Scenario-based thinking to visualise how users would interact with the avatar system, so we could map how real-life actions translate into in-app feedback.
