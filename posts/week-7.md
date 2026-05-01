@@ -2,7 +2,7 @@
 title: Concept Commitment and Group Discovery! 
 date: 2026-04-17
 author: Andrea Yaretzi
-summary: Welcome!
+summary:
 tags:
   - 2. Concept commitment, 3. Group Discovery
 ---
