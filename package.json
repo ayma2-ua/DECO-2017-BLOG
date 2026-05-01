@@ -8,5 +8,21 @@
     "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",
     "marked": "^17.0.2"
-  }
+  },
+  "name": "deco-2017-blog",
+  "version": "1.0.0",
+  "description": "This repository is a template for students to create and deploy their own blog using Markdown files.",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayma2-ua/DECO-2017-BLOG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayma2-ua/DECO-2017-BLOG/issues"
+  },
+  "homepage": "https://github.com/ayma2-ua/DECO-2017-BLOG#readme"
 }

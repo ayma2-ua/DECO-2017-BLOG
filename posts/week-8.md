@@ -1,5 +1,5 @@
 ---
-title: From Concept to Database: Designing an ERD and Transforming It into a Relational Database 
+title: "From Concept to Database: Designing an ERD and Transforming It into a Relational Database"
 date: 2026-04-24
 author: Andrea Yaretzi
 summary: 
