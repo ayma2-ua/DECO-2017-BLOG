@@ -28,4 +28,7 @@ Connected to this screen, we also designed the “Add Challenge” interface. He
 
 While working on these wireframes, we started noticing how the different components of the application related to each other. Even though we were still focused on the visual structure, this stage helped us begin thinking about the data and relationships that would later become part of the database design.
 
+As part of this stage, we also created user flow diagrams that maped how users would move through the different interactions of the app. The visualization was made easier after seeing these diagrams, and also to think about the decisions users would have to choose between and the responses of the system. For example, we mapped the login flow, avatar creation, adding a new mission, and sharing avatar progress. This made it easier to identify where validation, feedback messages, redirects and data storage would be needed.
+Instead of only designing screens, we began thinking about what each screen needed to do, what data it required, and how the system should respond when something was completed, missing or invalid. Refer to discussion 4.Functional Requirements, to check out the different diagram flows made (login, avatar creaion, share your avatar status, mission completed and creation of new mission)
+
 Overall, I believe creating the wireframes and user flow diagram has helped us to better visualize our abstract ideas and turn them into something much more tangible. 
