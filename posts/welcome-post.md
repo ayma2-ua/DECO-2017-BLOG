@@ -21,7 +21,7 @@ During this stage, I began looking understanding what the client, BlaBla Corp is
 
 One of my first possible directions was a cybersecurity awareness community.I was interested in the psychology behind everyday digital risks, especially how non-expert users respond to scams, phishing emails, suspicious SMS messages or QR codes in public places.
 
-After some research and checking some forums, it turns out phishing through the phone is the most common threat people come across in their workplaces. Instead of thinking about cybersecurity in general, I was considering non-expert users who have corporate jobs who are exposed to  scams, either by their work email, SMS, QRs on public places. Since the information they hold in their power is important, and probably companies don't want it to be compromised.
+After some research and looking at online discussions, I noticed that scams through emails, SMS messages and QR codes were common examples of everyday digital risks for non-expert users. Instead of thinking about cybersecurity in general, I was considering non-expert users who have corporate jobs who are exposed to  scams, either by their work email, SMS, QRs on public places. Since the information they hold in their power is important, and probably companies don't want it to be compromised.
 
 After seeing this issue, I started thinking about possible solutions to address this issue. Instead of following fixed methods, I explored different approaches inspired by design toolkits, allowing me to think broadly and consider multiple directions.
 
