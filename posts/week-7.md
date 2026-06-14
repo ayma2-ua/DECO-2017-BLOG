@@ -1,5 +1,5 @@
 ---
-title: Choosing the Core Concept: Self-Development Through Avatar Progression
+title: Choosing the Core Concept, Self-Development Through Avatar Progression
 date: 2026-04-17
 author: Andrea Yaretzi
 summary: Reflection on why we moved away from our first ideas and committed to a self-development platform based on avatar progression.
