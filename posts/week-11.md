@@ -1,5 +1,5 @@
 ---
-title: "From Concept to Database: Designing an ERD and Transforming It into a Relational Database" 
+title: "Finalizing implementation and flow work" 
 date: 2026-05-15
 author: Andrea Yaretzi
 summary: 
